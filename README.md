@@ -4,7 +4,7 @@
 
  **Clone the Repository:**
    Copy and paste the following command into your terminal:
-   ```rust
+   ```bash
    git clone https://github.com/akash2061/Wallpapers.git
    ```
 ### 🚀 New updates are available.
