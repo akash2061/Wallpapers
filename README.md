@@ -7,4 +7,4 @@
    ```bash
    git clone https://github.com/akash2061/Wallpapers.git
    ```
-### 🚀 New updates are available.
+### 🚀 New updates are available Every Month.
