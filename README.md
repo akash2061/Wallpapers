@@ -7,4 +7,3 @@
    ```bash
    git clone https://github.com/akash2061/Wallpapers
    ```
-### 🚀 New updates are available
